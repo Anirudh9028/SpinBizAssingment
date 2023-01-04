@@ -1,0 +1,10 @@
+url=http://testfire.net/login.jsp
+username=admin
+password=admin
+inusername=demo_user
+inpassword=demo_password
+amount=9876
+browser=chrome
+loginMainUrl=http://testfire.net/bank/main.jsp
+indexUrl=http://testfire.net/index.jsp
+textdata=hey_hii
